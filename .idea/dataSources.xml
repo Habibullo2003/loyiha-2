@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="madaniyat_va_sport_@localhost" uuid="f613d0c0-85bd-4ed6-bce4-39b88fe2d54c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/madaniyat_va_sport_</jdbc-url>
+      <working-dir>$ContentRoot$</working-dir>
+    </data-source>
+  </component>
+</project>
